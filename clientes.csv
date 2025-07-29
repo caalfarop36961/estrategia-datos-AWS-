@@ -1,0 +1,101 @@
+id_cliente,nombre_cliente,tipo_cliente,region,consumo_estimado_kwh
+C001,Robert Smith,comercial,Oriente,11778
+C002,Small PLC,comercial,Centro,10882
+C003,Briggs Ltd,residencial,Oriente,7322
+C004,"Lee, Khan and Flores",industrial,Sur,5715
+C005,"Soto, Bush and Walker",residencial,Pacífico,3846
+C006,Christopher Mccall,residencial,Oriente,16325
+C007,Nichols Group,comercial,Norte,948
+C008,Rebecca Cohen,industrial,Sur,18312
+C009,Ramos Inc,residencial,Norte,3051
+C010,Joshua Miles,comercial,Oriente,8924
+C011,Diana Wheeler,residencial,Sur,10833
+C012,"Taylor, Thompson and Hunt",industrial,Sur,2566
+C013,Katherine Gray,residencial,Norte,9353
+C014,"Thompson, Baker and Mcgee",residencial,Oriente,4949
+C015,Lawson-Hill,residencial,Centro,4073
+C016,Kaitlin Buckley,residencial,Norte,4431
+C017,"Daugherty, Robinson and Lopez",comercial,Centro,9813
+C018,Jason Ashley,residencial,Sur,6005
+C019,Elliott-Davis,industrial,Centro,3107
+C020,Woodard-Brown,residencial,Pacífico,14815
+C021,"Martin, Riddle and Matthews",industrial,Sur,19309
+C022,Randy Warren,residencial,Sur,9277
+C023,"Fernandez, Jackson and Spencer",residencial,Norte,15242
+C024,Pratt-Collins,comercial,Norte,13573
+C025,Knight-Long,comercial,Centro,18652
+C026,"Baker, Graves and Elliott",industrial,Oriente,4032
+C027,"Williamson, Anderson and Richardson",comercial,Oriente,7327
+C028,"Estes, Calhoun and Graham",comercial,Norte,7285
+C029,"Bailey, Johnson and Henson",comercial,Sur,11095
+C030,Marshall PLC,industrial,Centro,14694
+C031,Lamb and Sons,industrial,Norte,15702
+C032,Ellen Scott,industrial,Pacífico,19643
+C033,David Haas,comercial,Pacífico,12738
+C034,Vazquez LLC,comercial,Norte,10456
+C035,Linda Moody,residencial,Centro,11200
+C036,Jennifer Brown,industrial,Sur,19363
+C037,Angela Rose,residencial,Norte,3074
+C038,Judy Turner,residencial,Pacífico,7148
+C039,Mitchell PLC,industrial,Sur,8834
+C040,Tiffany Gonzalez,industrial,Centro,1562
+C041,Walker PLC,residencial,Sur,13619
+C042,"Smith, Peterson and Johnson",comercial,Pacífico,1083
+C043,"Bond, Stone and Thomas",industrial,Sur,14758
+C044,Bonnie Ford,comercial,Sur,3962
+C045,Suzanne Allison,industrial,Pacífico,19653
+C046,Gonzales-Jordan,residencial,Oriente,10679
+C047,"White, Perry and Hicks",industrial,Norte,18463
+C048,Brian Diaz,comercial,Pacífico,15651
+C049,Darrell Hendricks,industrial,Norte,9130
+C050,White PLC,industrial,Pacífico,10038
+C051,Fischer-Swanson,industrial,Sur,1217
+C052,Jessica Mitchell,industrial,Norte,18611
+C053,Smith-Burton,comercial,Norte,9650
+C054,Brian Thomas,comercial,Centro,4181
+C055,Pitts LLC,residencial,Pacífico,5109
+C056,Manuel Krause,industrial,Oriente,3974
+C057,William Henson,comercial,Centro,4064
+C058,"Turner, White and Barnes",comercial,Norte,12516
+C059,Christopher Hanna,residencial,Oriente,13631
+C060,"Gonzalez, Stark and Diaz",industrial,Centro,12903
+C061,Carrillo Group,industrial,Oriente,17550
+C062,Philip Sandoval,residencial,Pacífico,19282
+C063,"Anderson, Moyer and Moore",industrial,Norte,19102
+C064,Becky Miller,industrial,Sur,9104
+C065,Marissa Smith,residencial,Oriente,7546
+C066,Elizabeth Roberts,industrial,Oriente,15696
+C067,Kimberly Mcfarland,residencial,Oriente,6877
+C068,Jason Frost,residencial,Sur,3004
+C069,"Rivera, Ellis and Mooney",industrial,Oriente,12359
+C070,"Bentley, Smith and Moore",residencial,Oriente,6881
+C071,Cannon Group,residencial,Pacífico,5209
+C072,"Ford, Curtis and Mitchell",residencial,Oriente,13898
+C073,Derrick Stone,comercial,Norte,2566
+C074,Samantha Riley,industrial,Pacífico,7553
+C075,"Ware, Brown and Stafford",industrial,Oriente,12259
+C076,Sweeney-Lindsey,industrial,Oriente,11784
+C077,Villarreal-Gentry,comercial,Norte,17723
+C078,Victor King,industrial,Oriente,14118
+C079,Martinez-Wilson,industrial,Oriente,16353
+C080,Gwendolyn Cooper,residencial,Centro,2248
+C081,Rachel Walters,comercial,Norte,7380
+C082,Joanna Guerra,comercial,Oriente,16131
+C083,Duane Nixon,comercial,Sur,7738
+C084,Kimberly Nelson,residencial,Sur,17932
+C085,"Diaz, Gray and Garcia",comercial,Pacífico,12656
+C086,Robertson and Sons,comercial,Centro,2714
+C087,Walter Brennan,comercial,Sur,2188
+C088,Morris and Sons,industrial,Oriente,15839
+C089,"Welch, Johnston and Sparks",industrial,Oriente,11342
+C090,Hanson-Jennings,industrial,Sur,18418
+C091,Casey Moody,industrial,Norte,2612
+C092,Erika Curtis,comercial,Pacífico,18937
+C093,"Lawrence, Pham and Rodriguez",industrial,Centro,8402
+C094,Tammy Dickerson,comercial,Norte,7512
+C095,Heather Brown,industrial,Centro,19549
+C096,Walls-Mitchell,residencial,Centro,6420
+C097,Patrick Harper,comercial,Pacífico,14421
+C098,William Acosta,industrial,Oriente,9054
+C099,Jaime Weber,comercial,Oriente,7657
+C100,Erin Rodriguez,industrial,Pacífico,5944

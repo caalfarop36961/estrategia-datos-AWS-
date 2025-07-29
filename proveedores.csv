@@ -1,0 +1,101 @@
+id_proveedor,nombre_proveedor,tipo_energia,region,capacidad_mw
+P001,Reed-Rodriguez Energía,nuclear,Centro,76
+P002,Rogers Group Energía,hidraulica,Pacífico,903
+P003,Gordon and Sons Energía,nuclear,Norte,351
+P004,Turner-Wilson Energía,termica,Norte,737
+P005,Anderson-Medina Energía,termica,Norte,456
+P006,"Barber, Smith and Mcclure Energía",termica,Oriente,774
+P007,"Jones, Berry and Manning Energía",nuclear,Pacífico,286
+P008,"Young, Flynn and Dalton Energía",eolica,Oriente,817
+P009,Davis-Perez Energía,nuclear,Pacífico,841
+P010,Carter LLC Energía,hidraulica,Pacífico,619
+P011,Levine-Williams Energía,solar,Pacífico,124
+P012,"Barnes, Graves and Jones Energía",nuclear,Sur,186
+P013,"Allen, Wagner and Hernandez Energía",solar,Pacífico,702
+P014,"Cook, Martinez and Williams Energía",hidraulica,Sur,958
+P015,"Smith, Reyes and Price Energía",hidraulica,Norte,942
+P016,"Humphrey, Smith and Jackson Energía",solar,Norte,287
+P017,"Miles, Jones and Harrison Energía",nuclear,Sur,343
+P018,"Adkins, Smith and Hughes Energía",eolica,Centro,257
+P019,Burns-Burke Energía,termica,Oriente,680
+P020,Allen-Dean Energía,eolica,Norte,547
+P021,Butler and Sons Energía,solar,Sur,834
+P022,Riggs-Hamilton Energía,solar,Centro,161
+P023,Smith-Adkins Energía,solar,Norte,586
+P024,Jenkins LLC Energía,solar,Pacífico,203
+P025,Rivera LLC Energía,hidraulica,Oriente,297
+P026,Moran Ltd Energía,hidraulica,Norte,889
+P027,Flores Ltd Energía,solar,Centro,480
+P028,Jackson-Barnes Energía,eolica,Oriente,774
+P029,Johnson-Macias Energía,termica,Pacífico,66
+P030,Howard Inc Energía,termica,Oriente,904
+P031,Wilson Ltd Energía,eolica,Sur,935
+P032,"Moore, Montgomery and Navarro Energía",solar,Oriente,167
+P033,Roberts LLC Energía,eolica,Oriente,152
+P034,Hurley-Ellis Energía,hidraulica,Sur,441
+P035,"Wallace, White and Butler Energía",hidraulica,Sur,246
+P036,Burke-David Energía,eolica,Oriente,731
+P037,Barnes and Sons Energía,termica,Sur,197
+P038,Morrison Inc Energía,termica,Norte,828
+P039,Morgan and Sons Energía,hidraulica,Oriente,313
+P040,Davis and Sons Energía,eolica,Sur,75
+P041,Wall-Hughes Energía,hidraulica,Norte,548
+P042,Walker PLC Energía,hidraulica,Sur,196
+P043,"Whitney, Richardson and Reed Energía",eolica,Pacífico,426
+P044,Lawson and Sons Energía,eolica,Sur,997
+P045,"Bonilla, Scott and Thompson Energía",nuclear,Sur,948
+P046,Hayes-Gutierrez Energía,hidraulica,Norte,895
+P047,Jones PLC Energía,solar,Sur,810
+P048,Johnson Group Energía,nuclear,Pacífico,318
+P049,Mccoy and Sons Energía,hidraulica,Norte,382
+P050,"Washington, Snyder and Stafford Energía",solar,Sur,338
+P051,Holland-Wilson Energía,solar,Pacífico,103
+P052,"Marshall, Rodriguez and Smith Energía",hidraulica,Centro,486
+P053,White-Griffin Energía,nuclear,Pacífico,631
+P054,Herrera LLC Energía,termica,Sur,562
+P055,Levine-Roman Energía,hidraulica,Pacífico,82
+P056,Johnson Group Energía,termica,Norte,918
+P057,Wells-Scott Energía,eolica,Oriente,337
+P058,Pugh-Love Energía,termica,Oriente,377
+P059,Tran-Martin Energía,eolica,Centro,404
+P060,Hubbard PLC Energía,hidraulica,Norte,279
+P061,Shields Group Energía,termica,Norte,314
+P062,Martinez-Hansen Energía,eolica,Pacífico,847
+P063,"Lucas, Rogers and Cortez Energía",solar,Pacífico,433
+P064,Thompson Group Energía,nuclear,Pacífico,225
+P065,Spencer LLC Energía,solar,Norte,876
+P066,"Estrada, Cannon and Lee Energía",solar,Sur,487
+P067,Green-Flowers Energía,eolica,Sur,225
+P068,"Guzman, Roberts and Davis Energía",eolica,Centro,325
+P069,Horne-Oneal Energía,eolica,Pacífico,214
+P070,"Murray, Morales and Patrick Energía",eolica,Norte,850
+P071,Andersen Group Energía,termica,Pacífico,515
+P072,House-Bowen Energía,termica,Sur,881
+P073,"Boyd, Gonzales and Ramsey Energía",solar,Centro,947
+P074,Patterson Inc Energía,termica,Centro,106
+P075,"Cruz, Hunter and Kennedy Energía",solar,Norte,969
+P076,Dawson PLC Energía,hidraulica,Centro,646
+P077,Johnson-White Energía,termica,Pacífico,725
+P078,Robinson and Sons Energía,termica,Pacífico,746
+P079,"Harrison, Avery and Martinez Energía",hidraulica,Sur,847
+P080,"Johnson, Lucas and Smith Energía",hidraulica,Sur,216
+P081,"Williams, Schwartz and Gomez Energía",solar,Norte,108
+P082,Mcguire-Hernandez Energía,hidraulica,Norte,968
+P083,"Santos, Ross and Brown Energía",termica,Pacífico,184
+P084,"Macdonald, Dominguez and Berry Energía",solar,Sur,472
+P085,Morgan-May Energía,solar,Pacífico,198
+P086,Williams and Sons Energía,eolica,Sur,925
+P087,"Lewis, Frey and Figueroa Energía",nuclear,Norte,131
+P088,Boyd PLC Energía,solar,Pacífico,939
+P089,Jackson LLC Energía,termica,Sur,728
+P090,Ward PLC Energía,nuclear,Sur,261
+P091,Merritt Inc Energía,eolica,Centro,181
+P092,Gutierrez-Sanchez Energía,nuclear,Pacífico,783
+P093,Hall-Hernandez Energía,termica,Norte,175
+P094,"Gillespie, Gonzalez and West Energía",hidraulica,Sur,730
+P095,Douglas Group Energía,solar,Sur,879
+P096,Wilson Group Energía,solar,Centro,431
+P097,Stanley LLC Energía,termica,Sur,603
+P098,"Walker, Holloway and Nelson Energía",solar,Centro,447
+P099,Hansen-Castillo Energía,nuclear,Centro,105
+P100,Murray-Ford Energía,nuclear,Centro,166
